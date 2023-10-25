@@ -1,5 +1,5 @@
 FLASK IMPORTED FOR WEB INTEGERATION:
-CODE:
+PYTHON CODE: 
 from flask import Flask, render_template, redirect, url_for
 
 app = Flask(__name__, template_folder='./template')
